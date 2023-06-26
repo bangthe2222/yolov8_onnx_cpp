@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8_onnx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8_seg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8_seg_onnx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8_onnx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8_seg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8_seg_onnx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\include\yolov8_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1354B9C6-A3C3-3E13-92B8-D3C346C49B87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5EEECFF5-2680-367B-931E-DF7EF6107576}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\MAIN_DOCUMENTS\PROJECT\OPENCV_CPP\yolov8-opencv-onnxruntime-cpp\build\CMakeFiles\186438e6219ceecec32c118b7a3a858a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E3C3C9AF-9974-3DB1-8473-0E7241D9A260}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
